@@ -1,0 +1,12 @@
+{
+  "name": "lihobot",
+  "version": "0.0.0",
+  "description": "A chat bot",
+  "main": "app.js",
+  "author": "Wes Chuang",
+  "private": true,
+  "license": "BSD",
+  "dependencies": {
+    "express": "3.4.8"
+  }
+}
